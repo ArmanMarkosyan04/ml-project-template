@@ -1,16 +1,16 @@
-# [Your Project Title Here]
+# [TinyML Keyword recognition]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[(https://github.com/ArmanMarkosyan04/TinyMl)]
 
-## Description
+## Recognition of keywords using TinyMl
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+[the use of different words, as well as silence and noise to complicate the word recognition task and bring this task closer to real conditions]
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Keyword Classification]
 
 ### Results Summary
 
