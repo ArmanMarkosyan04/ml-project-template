@@ -28,4 +28,4 @@ Keyword Classification
 
 ## Cover Image
 
-![Project Cover Image](C:\Users\Media Markt\Pictures\Screenshots)
+![Project Cover Image]
