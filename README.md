@@ -10,7 +10,7 @@
 
 ### Task Type
 
-[Keyword Classification]
+Keyword Classification
 
 ### Results Summary
 
@@ -28,4 +28,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](C:\Users\Media Markt\Pictures\Screenshots)
