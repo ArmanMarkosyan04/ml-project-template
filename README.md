@@ -6,11 +6,11 @@
 
 ## Description
 
-[the use of different words, as well as silence and noise to complicate the word recognition task and bring this task closer to real conditions.]
+the usage of different words, as well as silence and noise to complicate the word recognition task and bring this task closer to real conditions.
 
 ### Task Type
 
-[nKeywird detection]
+Keyword detection
 
 ### Results Summary
 
