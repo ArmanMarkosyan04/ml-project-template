@@ -2,21 +2,21 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/ArmanMarkosyan04/ml-project-template]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+[the use of different words, as well as silence and noise to complicate the word recognition task and bring this task closer to real conditions.]
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[nKeywird detection]
 
 ### Results Summary
 
 - **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Evaluation Metric:** [Keyword prediction Accuracy]
+- **Result:** [average accuracy: 93%]
 
 ## Documentation
 
